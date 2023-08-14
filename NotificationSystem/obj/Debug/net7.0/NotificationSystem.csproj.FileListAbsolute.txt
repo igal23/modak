@@ -1,0 +1,15 @@
+H:\projects\Modak\NotificationSystem\bin\Debug\net7.0\NotificationSystem.exe
+H:\projects\Modak\NotificationSystem\bin\Debug\net7.0\NotificationSystem.deps.json
+H:\projects\Modak\NotificationSystem\bin\Debug\net7.0\NotificationSystem.runtimeconfig.json
+H:\projects\Modak\NotificationSystem\bin\Debug\net7.0\NotificationSystem.dll
+H:\projects\Modak\NotificationSystem\bin\Debug\net7.0\NotificationSystem.pdb
+H:\projects\Modak\NotificationSystem\obj\Debug\net7.0\NotificationSystem.csproj.AssemblyReference.cache
+H:\projects\Modak\NotificationSystem\obj\Debug\net7.0\NotificationSystem.GeneratedMSBuildEditorConfig.editorconfig
+H:\projects\Modak\NotificationSystem\obj\Debug\net7.0\NotificationSystem.AssemblyInfoInputs.cache
+H:\projects\Modak\NotificationSystem\obj\Debug\net7.0\NotificationSystem.AssemblyInfo.cs
+H:\projects\Modak\NotificationSystem\obj\Debug\net7.0\NotificationSystem.csproj.CoreCompileInputs.cache
+H:\projects\Modak\NotificationSystem\obj\Debug\net7.0\NotificationSystem.dll
+H:\projects\Modak\NotificationSystem\obj\Debug\net7.0\refint\NotificationSystem.dll
+H:\projects\Modak\NotificationSystem\obj\Debug\net7.0\NotificationSystem.pdb
+H:\projects\Modak\NotificationSystem\obj\Debug\net7.0\NotificationSystem.genruntimeconfig.cache
+H:\projects\Modak\NotificationSystem\obj\Debug\net7.0\ref\NotificationSystem.dll
